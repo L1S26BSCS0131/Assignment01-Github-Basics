@@ -1,3 +1,11 @@
+/*
+ * Program    : Sum of First 50 Natural Numbers
+ * Name       : Usman waheed
+ * Reg No     : L1S26BSCS0131
+ * Assignment : 01 - Getting Started with GitHub
+ */
+
+
 
 #include <iostream>
 using namespace std;
@@ -14,3 +22,4 @@ int main() {
 
 
     return 0;
+}
